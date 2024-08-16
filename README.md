@@ -15,21 +15,21 @@ Ein Onkologe identifiziert einen Biomarker, der voraussagt, wie gut ein Patient 
 Eine Klinik führt eine Studie durch, um zu untersuchen, ob eine neue medizinische Creme die Heilungsraten von Hautausschlägen besser fördert als eine Standardbehandlung. Die Klinik testet die neue Creme an einer Gruppe von 200 Patienten und die Standardbehandlung an einer anderen Gruppe von 200 Patienten. Nach einer Behandlungsdauer von zwei Wochen wird der Anteil der Patienten, die eine vollständige Heilung zeigen, in beiden Gruppen gemessen.
 
 **Alternativhypothese:**
-HA: p1 ≠ p2
+H<sub>a</sub>: p1 ≠ p2
 
 Der Anteil der Patienten, die durch die neue Creme geheilt werden, unterscheidet sich von dem Anteil der Patienten, die durch die Standardbehandlung geheilt werden.
 
-(p1 der Anteil der geheilten Patienten in der Gruppe mit der neuen Creme und p2 der Anteil der geheilten Patienten in der Gruppe mit der Standardbehandlung ist)
+(p1 ist der Anteil der geheilten Patienten in der Gruppe mit der neuen Creme und p2 ist der Anteil der geheilten Patienten in der Gruppe mit der Standardbehandlung ist)
 
 **Nullhypothesen (nur eine ist korrekt):**
   
-1) H0: p1 = p2  
+1) H<sub>0</sub>: p1 = p2  
    Der Anteil der Patienten, die eine vollständige Heilung durch die neue Creme erfahren, ist gleich dem Anteil der Patienten, die durch die Standardbehandlung geheilt werden.  
-2) H0: p1 > p2  
+2) Hsub>0</sub>: p1 > p2  
    Der Anteil der Patienten, die durch die neue Creme geheilt werden, ist größer als der Anteil, der durch die Standardbehandlung geheilt wird.    
-3) HA: p1 = 0.5  
+3) Hsub>0</sub>: p1 = 0.5  
    Die Heilungsrate der neuen Creme ist 50%.   
-4) HA: p1 = 2p2  
+4) Hsub>0</sub>: p1 = 2p2  
    Der Anteil der durch die neue Creme geheilten Patienten ist doppelt so hoch wie der Anteil, der durch die Standardbehandlung geheilt wird.   
    
 ---

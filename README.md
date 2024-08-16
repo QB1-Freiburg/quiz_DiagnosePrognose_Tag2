@@ -24,13 +24,13 @@ Der Anteil der Patienten, die durch die neue Creme geheilt werden, unterscheidet
 **Nullhypothesen (nur eine ist korrekt):**
   
 1) H<sub>0</sub>: p1 = p2  
-   Der Anteil der Patienten, die eine vollständige Heilung durch die neue Creme erfahren, ist gleich dem Anteil der Patienten, die durch die Standardbehandlung geheilt werden.  
-2) Hsub>0</sub>: p1 > p2  
-   Der Anteil der Patienten, die durch die neue Creme geheilt werden, ist größer als der Anteil, der durch die Standardbehandlung geheilt wird.    
-3) Hsub>0</sub>: p1 = 0.5  
-   Die Heilungsrate der neuen Creme ist 50%.   
-4) Hsub>0</sub>: p1 = 2p2  
-   Der Anteil der durch die neue Creme geheilten Patienten ist doppelt so hoch wie der Anteil, der durch die Standardbehandlung geheilt wird.   
+   Der Anteil der Patienten, die eine vollständige Heilung durch die neue Creme erfahren, ist gleich dem Anteil der Patienten, die durch die Standardbehandlung geheilt werden.<br>  
+2) H<sub>0</sub>: p1 > p2  
+   Der Anteil der Patienten, die durch die neue Creme geheilt werden, ist größer als der Anteil, der durch die Standardbehandlung geheilt wird.<br>    
+3) H<sub>0</sub>: p1 = 0.5  
+   Die Heilungsrate der neuen Creme ist 50%.<br>   
+4) H<sub>0</sub>: p1 = 2p2  
+   Der Anteil der durch die neue Creme geheilten Patienten ist doppelt so hoch wie der Anteil, der durch die Standardbehandlung geheilt wird.<br>   
    
 ---
 
@@ -39,19 +39,19 @@ In einer klinischen Studie, in der die Wirksamkeit zweier Behandlungsmethoden f�
 
 Welche der folgenden Aussagen zu den Ergebnissen der Kaplan-Meier-Kurve und der Interpretation der Daten ist korrekt?
   
-1) Es ist möglich aus den Kurven abzulesen, wann die Ereignisse bei 20% der Patienten tatsächlich eingetreten sind.  
-2) Die mediane Überlebenszeit kann nur für Gruppe A geschätzt werden.  
-3) Zensierungen beeinflussen die Schätzung der Überlebenswahrscheinlichkeit nicht und können ignoriert werden.  
-4) Aus der Kaplan-Meier-Kurve kann abgelesen werden, dass die Überlebenszeit bei allen Patienten unter 3 Jahren liegt.  
+1) Es ist möglich aus den Kurven abzulesen, wann die Ereignisse bei 20% der Patienten tatsächlich eingetreten sind.<br>  
+2) Die mediane Überlebenszeit kann nur für Gruppe A geschätzt werden.<br>  
+3) Zensierungen beeinflussen die Schätzung der Überlebenswahrscheinlichkeit nicht und können ignoriert werden.<br>  
+4) Aus der Kaplan-Meier-Kurve kann abgelesen werden, dass die Überlebenszeit bei allen Patienten unter 3 Jahren liegt.<br>  
 
 ---
 
 ### Frage 4:  
 Eine Cox-Regressionsanalyse wurde durchgeführt, um den Einfluss mehrerer Risikofaktoren auf das Überleben von Patienten mit Lungenkrebs zu untersuchen. Die Analyse ergab eine signifikante Hazard-Ratio (HR) von 1,5 für das Rauchen als Risikofaktor. Die Studie beobachtete die Patienten über einen Zeitraum von 5 Jahren. Was kann aus diesem Ergebnis über den Einfluss des Rauchens auf die Überlebenswahrscheinlichkeit der Patienten geschlossen werden?  
   
-1) Rauchen hat keinen Einfluss auf die Überlebenswahrscheinlichkeit, da eine HR von 1,5 keinen signifikanten Unterschied darstellt.  
-2) Rauchen erhöht das Risiko eines Ereignisses (hier: Tod) um 50% für Patienten mit Lungenkrebs im Vergleich zu Nichtrauchern.  
-3) Eine HR von 1,5 bedeutet, dass alle Patienten, die rauchen, innerhalb von 1,5 Jahren versterben werden.  
-4) Die Cox-Regressionsanalyse zeigt, dass Rauchen die Überlebenswahrscheinlichkeit verbessert, da es die HR von 1,5 relativ niedrig hält.  
+1) Rauchen hat keinen Einfluss auf die Überlebenswahrscheinlichkeit, da eine HR von 1,5 keinen signifikanten Unterschied darstellt.<br>  
+2) Rauchen erhöht das Risiko eines Ereignisses (hier: Tod) um 50% für Patienten mit Lungenkrebs im Vergleich zu Nichtrauchern.<br>  
+3) Eine HR von 1,5 bedeutet, dass alle Patienten, die rauchen, innerhalb von 1,5 Jahren versterben werden.<br>  
+4) Die Cox-Regressionsanalyse zeigt, dass Rauchen die Überlebenswahrscheinlichkeit verbessert, da es die HR von 1,5 relativ niedrig hält.<br>  
 
 
